@@ -1,5 +1,5 @@
 # WikipediaTextCorporaGenerator
-A scripts suite that generates from Wikipedia text corpora for all languages supported by Firefox and Wikipedia.
+A scripts suite that generates, from Wikipedia text, corpora for all languages supported by Wikipedia
 
 # Quick Start
 
