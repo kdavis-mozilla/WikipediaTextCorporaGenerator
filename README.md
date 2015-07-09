@@ -16,8 +16,8 @@ A scripts suite that generates from Wikipedia text corpora for all languages sup
 ## Execution
 
 ```bash
-cd WikipediaTextCorporaGenerator
-WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTextCorpora.sh
+kdaviss-MacBook-Pro:Code kdavis$ cd WikipediaTextCorporaGenerator
+kdaviss-MacBook-Pro:WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTextCorpora.sh
 ```
 
 This will run through several steps:
