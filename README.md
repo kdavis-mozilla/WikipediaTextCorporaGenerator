@@ -39,3 +39,16 @@ raw-text/
 ```
 * Download the Wikipedia data dumps into the directory `dumps`.
 * Extract raw text from the Wikipedia data dumps into the appropriate language directory.
+```bash
+raw-text/
+├── ab
+├── ace
+├── af
+├── ak
+├── als
+├── am
+├── an
+├── ang
+├── ar
+...
+```
