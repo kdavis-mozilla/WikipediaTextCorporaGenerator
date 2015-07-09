@@ -37,18 +37,6 @@ raw-text/
 ├── ar
 ...
 ```
+one for the Wikipedia data dumps `dumps` and one for each Wikipedia language to be downloaded `raw-text/ab`,`raw-text/ace`,`raw-text/af`,`raw-text/ak` ...
 * Download the Wikipedia data dumps into the directory `dumps`.
 * Extract raw text from the Wikipedia data dumps into the appropriate language directory.
-```bash
-raw-text/
-├── ab
-├── ace
-├── af
-├── ak
-├── als
-├── am
-├── an
-├── ang
-├── ar
-...
-```
