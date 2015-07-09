@@ -22,7 +22,7 @@ kdaviss-MacBook-Pro:WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTex
 
 This will run through several steps:
 
-1. Create a series of directories,
+* Create a series of directories,
 ```bash
 dumps/
 raw-text/
@@ -37,5 +37,5 @@ raw-text/
 ├── ar
 ...
 ```
-2. Download the Wikipedia data dumps into the directory `dumps`.
-3. Extract raw text from the Wikipedia data dumps into the appropriate language directory.
+* Download the Wikipedia data dumps into the directory `dumps`.
+* Extract raw text from the Wikipedia data dumps into the appropriate language directory.
