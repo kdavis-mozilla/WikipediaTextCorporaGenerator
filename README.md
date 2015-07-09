@@ -21,7 +21,7 @@ kdaviss-MacBook-Pro:Code kdavis$ cd WikipediaTextCorporaGenerator
 kdaviss-MacBook-Pro:WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTextCorpora.sh
 ```
 
-This will run through several steps:
+This will run through several steps. It will
 
 * Create a series of directories,
 ```bash
