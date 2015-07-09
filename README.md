@@ -15,7 +15,7 @@ A scripts suite that generates, from Wikipedia, text corpora for all languages s
 
 ## Execution
 
-### What to do
+### What to do...
 
 One simply opens a shell an proceedes as follows:
 ```bash
@@ -23,7 +23,7 @@ MacBook-Pro:Code kdavis$ cd WikipediaTextCorporaGenerator
 MacBook-Pro:WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTextCorpora.sh
 ```
 
-### What happens
+### What happens...
 
 This will run through several steps. It will
 
@@ -46,6 +46,6 @@ one for the Wikipedia data dumps `dumps` and one for each Wikipedia language to 
 * Download the Wikipedia data dumps into the directory `dumps`.
 * Extract raw text from the Wikipedia data dumps into the appropriate language directory.
 
-### What the results are
+### What the results are...
 
 The final result is the raw text of each language's Wikipedia `raw-text/ab/wiki.txt`,`raw-text/ace/wiki.txt`,`raw-text/af/wiki.txt`,`raw-text/ak/wiki.txt` ... stored in the appropriate directory.
