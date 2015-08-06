@@ -1,4 +1,4 @@
-# WikipediaTextCorporaGenerator
+# Corpora Generator
 A scripts suite that generates, from Wikipedia, text corpora for all languages supported by Wikipedia
 
 # Quick Start
@@ -19,8 +19,8 @@ A scripts suite that generates, from Wikipedia, text corpora for all languages s
 
 One simply opens a shell an proceedes as follows:
 ```bash
-MacBook-Pro:Code kdavis$ cd WikipediaTextCorporaGenerator
-MacBook-Pro:WikipediaTextCorporaGenerator kdavis$ ./generateWikipediaTextCorpora.sh
+MacBook-Pro:Code kdavis$ cd corpora-generator
+MacBook-Pro:corpora-generator kdavis$ ./generateWikipediaTextCorpora.sh
 ```
 
 ### What happens...
