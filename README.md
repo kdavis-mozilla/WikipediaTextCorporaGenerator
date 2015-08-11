@@ -48,4 +48,12 @@ one for the Wikipedia data dumps `dumps` and one for each Wikipedia language to 
 
 ### What the results are...
 
-The final result is the raw text of each language's Wikipedia `raw-text/ab/wiki.txt`,`raw-text/ace/wiki.txt`,`raw-text/af/wiki.txt`,`raw-text/ak/wiki.txt` ... stored in the appropriate directory.
+The final result is the raw text of each language's Wikipedia
+
+* `raw-text/ab/wiki.txt`
+* `raw-text/ace/wiki.txt`
+* `raw-text/af/wiki.txt`
+* `raw-text/ak/wiki.txt`
+* ...
+
+stored in the appropriate directory.
